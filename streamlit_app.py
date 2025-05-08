@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+import plotly.express as px #시각화도구
 
 # 데이터 로드
 @st.cache_data
